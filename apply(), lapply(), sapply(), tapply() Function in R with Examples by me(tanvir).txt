@@ -1,0 +1,4 @@
+Function	Arguments	Objective	Input	Output
+apply	apply(x, MARGIN, FUN)	Apply a function to the rows or columns or both	Data frame or matrix	vector, list, array
+lapply	lapply(X, FUN)	Apply a function to all the elements of the input	List, vector or data frame	list
+sapply	sapply(X, FUN)	Apply a function to all the elements of the input	List, vector or data frame	vector or
