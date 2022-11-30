@@ -1,0 +1,8 @@
+Types of plot:
+
+1. Pie Charts*
+2. Bar Charts*
+3. Boxplots*
+4. Histograms*
+5. Line Graphs*
+6. Scatterplots*
