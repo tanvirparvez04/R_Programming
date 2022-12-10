@@ -45,8 +45,9 @@ png(file = "boxplot.png")
 #plot the chart:
 boxplot(mpg~cyl,
         mtcars,
-        main="mpg and cyl"
-        )
+        main="mpg and cyl",
+        xlab="abcd",
+        ylab="dfgh")
 
 
 # Save the file.
